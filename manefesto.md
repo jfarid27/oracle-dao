@@ -2,7 +2,7 @@
 
 ## Introduction
 
-OracleDAO is a proposal smart contract, aimed and coordinating efforts to build tools and market Augur, and its token REP.
+OracleDAO is a proposed smart contract aimed and coordinating efforts to build tools and market Augur, and its token REP.
 It is expected this DAO will propose funding of marketing, research, and engineering related to the Augur project. This DAO will
 follow the traditions of MolochDAO, focusing on positive externality projects to improve value for REP holders and users of Augur.
 DAO members will be expected to pay tribute in DAI, and vote on proposals to fund projects. Also following the tradition of MolochDAO,
