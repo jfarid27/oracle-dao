@@ -28,11 +28,11 @@ users and drive volume, increasing the value of the REP token.
 ### Why another DAO? Why not let the Forecast Foundation do this?
 
 During this rise, it has become clear development is seeing a tragedy of commons. The Forecast Foundation is primarily focused on developing
-the core UI to connect to Augur. While this development is active and strong, other quality of life tools that also connect to Augur or could
+the Augur smart contracts and core UI to connect to Augur. While this development is active and strong, other quality of life tools that also connect to Augur or could
 improve the quality of Augur have not appeared. This is primarily due to the Forecast Foundation's size and limited engineering and marketing
 resources. Other's have begun to build tools and market Augur, but those attempts are highly centralized and at any point could be removed,
 significantly reducing the quality of life of Augur's users and REP holders. Not only this, these quality of life improvements could be worked
-on in parallel of V2.
+on in parallel of the development of Augur itself.
 
 ### Enter oracleDAO
 
