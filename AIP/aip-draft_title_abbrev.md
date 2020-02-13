@@ -1,6 +1,6 @@
 # AIP Template
 
-###### tags: AIP Project Template
+###### tags: `AIP` `Project` `Template`
 
 README:
 
