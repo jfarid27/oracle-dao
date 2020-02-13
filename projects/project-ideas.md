@@ -21,3 +21,10 @@ This list should include a list of project ideas with rough estimates of cost. W
 | Japanese Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Japanese | ◈200 | |
 | Spanish Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Spanish | ◈200 | |
 | Arabic Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Arabic | ◈200 | |
+| Prediction Markets as Options | Write a blog post translating prediction market types to relevant financial terminology | ◈100 | |
+| Weather Prediction Markets | Write a blog post describing how to set up weather markets and list relevant resolution sources | ◈100 | |
+| Commuter Insurance Prediction Markets | Write a blog post describing how to set up specific public transportation failure markets and list relevant resolution sources | ◈100 | |
+| Box Office Prediction Markets | Write a blog post describing how to set up weekend box office gross markets and list relevant resolution sources | ◈100 | |
+| Company Event Prediction Markets | Write a blog post describing how to set up prediction markets for company events like IPOs, C-level changes, etc. and list relevant resolution sources | ◈50 | |
+| Financial Statement Prediction Markets | Write a blog post describing how to set up prediction markets for company financial statements like quarterly reports and list relevant resolution sources | ◈50 | |
+| Prediction Markets and Sharia Law | Write a blog post detailing Sharia law implications for Augur prediction markets | ◈500 | |
