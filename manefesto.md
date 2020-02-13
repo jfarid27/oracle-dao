@@ -34,7 +34,7 @@ resources. Other's have begun to build tools and market Augur, but those attempt
 significantly reducing the quality of life of Augur's users and REP holders. Not only this, these quality of life improvements could be worked
 on in parallel of the development of Augur itself.
 
-### Enter oracleDAO
+### Enter OracleDAO
 
 OracleDAO could immediately change this. OracleDAO could help scale engineering by hiring external consultants to improve the product,
 or fund development of open-source tools that connect to and use Augur. Not only this, but an external aid to the Forecast Foundation
