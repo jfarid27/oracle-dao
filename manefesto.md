@@ -1,5 +1,7 @@
 # OracleDAO
 
+###### tags: `Manifesto` `Governance`
+
 ## Introduction
 
 OracleDAO is a proposed smart contract aimed and coordinating efforts to build tools and market Augur, and its token REP.
