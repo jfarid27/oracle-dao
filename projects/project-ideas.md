@@ -1,5 +1,7 @@
 # Project Ideas
 
+###### tags: `Project` `Planning` `AIP`
+
 Projects should start with an idea, then be transfered to an
 AIP (Augur Improvement Proposal). AIP's should have well defined goals
 and a clear Definition of Done that members of the DAO can evaluate and
