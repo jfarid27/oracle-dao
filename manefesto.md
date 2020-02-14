@@ -13,6 +13,8 @@ To fund the OracleDAO, members must join with at least ◈2000 tribute, and will
 
 ##### Related Links
 
+[MolochDAO: Collapsing the Firm](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
+
 [MolochDAO whitepaper](https://github.com/MolochVentures/Whitepaper/blob/master/Whitepaper.pdf)
 
 [Augur whitepaper](https://www.augur.net/whitepaper.pdf)
@@ -23,8 +25,8 @@ To fund the OracleDAO, members must join with at least ◈2000 tribute, and will
 ### Augur is more than a smart contract
 
 Augur's smart contract has shown a use case for an open, decentralized prediction market accessible to the entire world. Since July 2018,
-Augur has seen over Ξ70,000 in volume from only slightly over 2000 users, showing a strong user base willing to help predict on future
-events risking their own monetary value. While this growth has been positive, it is clear other components are necessary to capture more
+Augur has seen over Ξ70,000 in volume from only slightly over 2000 users at the time of this writing in February, 2020, showing a strong user
+base willing to help predict on future events risking their own monetary value. While this growth has been positive, it is clear other components are necessary to capture more
 users and drive volume, increasing the value of the REP token.
 
 ### Why another DAO? Why not let the Forecast Foundation do this?
