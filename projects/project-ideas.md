@@ -28,3 +28,4 @@ This list should include a list of project ideas with rough estimates of cost. W
 | Company Event Prediction Markets | Write a blog post describing how to set up prediction markets for company events like IPOs, C-level changes, etc. and list relevant resolution sources | ◈50 | |
 | Financial Statement Prediction Markets | Write a blog post describing how to set up prediction markets for company financial statements like quarterly reports and list relevant resolution sources | ◈50 | |
 | Prediction Markets and Sharia Law | Write a blog post detailing Sharia law implications for Augur prediction markets | ◈500 | |
+| Sports Betting Odds to Prediction Markets | Create an open-source web-app that translates binary prediction market info with spreads and fees to equivalent sports odds | ◈500 | |
