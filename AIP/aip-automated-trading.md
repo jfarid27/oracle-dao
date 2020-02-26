@@ -1,5 +1,7 @@
 # AIP-2
 
+###### tags: `AIP` `Project` `Engineering` `Application`
+
 ## Simple Summary
 Desktop app for trading automation with the ability to create markets in one click.
 
