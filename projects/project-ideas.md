@@ -15,6 +15,7 @@ This list should include a list of project ideas with rough estimates of cost. W
 
 | Project Name | Description | Est. Cost | AIP |
 | -------- | -------- | -------- | -------- |
+| Automate Market Creation | Create an application to copy markets from existing betting platforms and generate markets, also automating market making.  |  | [AIP-2](https://hackmd.io/@oracle-dao/Byi2_OEVI) |
 | Open-Source Market Maker Bot     | Create a market maker bot program that is open source, that anyone can download     | ◈5000 |     |
 | Augur market scanner | Create a UI that imrpoves ExploreAugur with better market exploration tools like price over time and trading drilldowns | ◈10000  | |
 | Language Translation Integration | Integrate a translator generic into the UI, and start with a simple language like Spanish as a first integration | ◈7000 | |
