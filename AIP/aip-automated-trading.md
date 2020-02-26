@@ -1,4 +1,4 @@
-# AIP-1
+# AIP-2
 
 ## Simple Summary
 Desktop app for trading automation with the ability to create markets in one click.
@@ -14,7 +14,7 @@ At the moment, there are big problems with liquidity on the platform. Those few 
 
 ## Specification
 1. Desktop application;
-2. Connect to Betfair API using Betfair Application Key (the user must independently generate a key on the Betfair website); 
+2. Connect to Betfair API using Betfair Application Key (the user must independently generate a key on the Betfair website);
 3. Connect to Ethereum network using Infura or local client (the user must independently generate a key on the Infura website);
 4. 0x stuff (have no idea how it works);
 5. Market creation section;
