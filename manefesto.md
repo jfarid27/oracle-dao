@@ -9,16 +9,6 @@ It is expected this DAO will propose funding of marketing, research, and enginee
 follow the traditions of MolochDAO, focusing on positive externality projects to improve value for REP holders and users of Augur.
 DAO members will be expected to pay tribute in DAI, and vote on proposals to fund projects. Also following the tradition of MolochDAO,
 members must get approval from other members to join, may withdraw at any time, and may be removed from the DAO by vote from other members.
-To fund the OracleDAO, members must join with at least ◈2000 tribute, and will receive 10 shares.
-
-##### Related Links
-
-[MolochDAO: Collapsing the Firm](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
-
-[MolochDAO whitepaper](https://github.com/MolochVentures/Whitepaper/blob/master/Whitepaper.pdf)
-
-[Augur whitepaper](https://www.augur.net/whitepaper.pdf)
-
 
 ## Purpose
 
@@ -71,7 +61,24 @@ consultant to work on a new language in the Augur UI, and pay them shares equiva
 shares is now dilluted, but overall, members of the DAO who may be REP holders or Market Makers capture this value in REP price or market
 volume, the project is profitable.
 
-There are more details about governance, but members should see MolochDAO's whitepaper, and prepare for a fork to be summoned in the near future. At the start, members should be expected to tribute at least ◈2000 to join.
+There are more details about governance, but members should see MolochDAO's whitepaper, and prepare for a fork to be summoned in the near future. At the start, members should be expected to tribute at least ◈500 to join.
+
+## Participate
+
+### Membership
+
+To fund the OracleDAO, members must join with at least ◈500 tribute (Dai). Shares will naturally follow a bonding curve style, so talk to your sponsor to
+discuss tributes and shares to be allocated to you. It is expected that members are able to execute the goals of the DAO and support Augur
+by working on projects, marketing, doing busines development, or giving Dai to increase share prices to fund future work. If you would like to help,
+but aren't able to dedicate much, see the support section below.
+
+[OracleDAO can be accessed via Pokemol](https://pokemol.com/dao/0x67b67c5b7384d6c1cdad1ed988b49183f4c59740/)
+
+### Support
+
+If you would like to work for the project and are interested in helping execute some goals, speak to a member and you may receive shares with an equivalent
+price for your work. You may also wish to work for the DAO and receive non-voting shares in the form of loot.
+
 
 ## Communication
 
@@ -84,3 +91,12 @@ and hosted at any time.
 [HackMD](https://hackmd.io/team/oracle-dao)
 
 [Github](https://github.com/jfarid27/oracle-dao)
+
+
+## Related Links
+
+[MolochDAO: Collapsing the Firm](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
+
+[MolochDAO whitepaper](https://github.com/MolochVentures/Whitepaper/blob/master/Whitepaper.pdf)
+
+[Augur whitepaper](https://www.augur.net/whitepaper.pdf)
