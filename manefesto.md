@@ -63,6 +63,11 @@ volume, the project is profitable.
 
 There are more details about governance, but members should see MolochDAO's whitepaper, and prepare for a fork to be summoned in the near future. At the start, members should be expected to tribute at least ◈500 to join.
 
+## Projects
+
+See the [Projects](https://hackmd.io/@oracle-dao/Sy23agXQU) page for information about what we would like to work on. If you have an idea,
+reach out to a member to prepare and scope the project.
+
 ## Participate
 
 ### Membership
