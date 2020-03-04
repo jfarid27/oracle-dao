@@ -77,7 +77,9 @@ discuss tributes and shares to be allocated to you. It is expected that members 
 by working on projects, marketing, doing busines development, or giving Dai to increase share prices to fund future work. If you would like to help,
 but aren't able to dedicate much, see the support section below.
 
-[OracleDAO can be accessed via Pokemol](https://pokemol.com/dao/0x67b67c5b7384d6c1cdad1ed988b49183f4c59740/)
+After discussing your tribute and requested shares with members in the chat, [click here to start your proposal](https://pokemol.com/dao/0x67b67c5b7384d6c1cdad1ed988b49183f4c59740/proposal-funding).
+
+General member actions for OracleDAO can be accessed via [Pokemol here](https://pokemol.com/dao/0x67b67c5b7384d6c1cdad1ed988b49183f4c59740/)
 
 ### Support
 
