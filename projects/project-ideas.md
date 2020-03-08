@@ -26,6 +26,7 @@ This list should include a list of project ideas with rough estimates of cost. W
 | Japanese Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Japanese | ◈700 | |
 | Spanish Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Spanish | ◈500 | [AIP-1](https://hackmd.io/@oracle-dao/SyB4Z97QI) |
 | Arabic Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Arabic | ◈700 | |
+| Hindi Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Hindi | ◈500 | [AIP-3](https://hackmd.io/@oracle-dao/BkqQB5GSU)|
 | Prediction Markets as Options | Write a blog post translating prediction market types to relevant financial terminology | ◈100 | |
 | Weather Prediction Markets | Write a blog post describing how to set up weather markets and list relevant resolution sources | ◈100 | |
 | Commuter Insurance Prediction Markets | Write a blog post describing how to set up specific public transportation failure markets and list relevant resolution sources | ◈100 | |
