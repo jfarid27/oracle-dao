@@ -93,7 +93,7 @@ OracleDAO should focus on decentralized communication. Members should seek tools
 and HackMD should be the main tools, since Telegram is a common communication tool, and HackMD utilizes github repositories, which can be forked
 and hosted at any time.
 
-[Telegram](https://t.me/oracledao) 
+[Discord](https://discord.gg/ay6kM9X) 
 
 [HackMD](https://hackmd.io/team/oracle-dao)
 
