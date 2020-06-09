@@ -15,7 +15,7 @@ This list should include a list of project ideas with rough estimates of cost. W
 
 | Project Name | Description | Est. Cost | AIP |
 | -------- | -------- | -------- | -------- |
-| Automate Market Creation | Create an application to copy markets from existing betting platforms and generate markets, also automating market making.  |  | [AIP-2](https://hackmd.io/@oracle-dao/Byi2_OEVI) |
+| Automate Market Creation | Create an application to copy markets from existing betting platforms and generate markets, also automating market making.  |  | [AIP-2](https://hackmd.io/@augur-dao/Byi2_OEVI) |
 | Open-Source Market Maker Bot     | Create a market maker bot program that is open source, that anyone can download     | ◈5000 |     |
 | Augur market scanner | Create a UI that imrpoves ExploreAugur with better market exploration tools like price over time and trading drilldowns | ◈10000  | |
 | Language Translation Integration | Integrate a translator generic into the UI, and start with a simple language like Spanish as a first integration | ◈7000 | |
@@ -24,9 +24,9 @@ This list should include a list of project ideas with rough estimates of cost. W
 | Vietnamese Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Vietnamese | ◈800 ||
 | Korean Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Korean | ◈800 | |
 | Japanese Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Japanese | ◈700 | |
-| Spanish Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Spanish | ◈500 | [AIP-1](https://hackmd.io/@oracle-dao/SyB4Z97QI) |
+| Spanish Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Spanish | ◈500 | [AIP-1](https://hackmd.io/@augur-dao/SyB4Z97QI) |
 | Arabic Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Arabic | ◈700 | |
-| Hindi Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Hindi | ◈500 | [AIP-3](https://hackmd.io/@oracle-dao/BkqQB5GSU)|
+| Hindi Prediction Markets Intro. | Translate the [Ultimate Guide](https://www.augur.net/blog/prediction-markets/) to Hindi | ◈500 | [AIP-3](https://hackmd.io/@augur-dao/BkqQB5GSU)|
 | Prediction Markets as Options | Write a blog post translating prediction market types to relevant financial terminology | ◈100 | |
 | Weather Prediction Markets | Write a blog post describing how to set up weather markets and list relevant resolution sources | ◈100 | |
 | Commuter Insurance Prediction Markets | Write a blog post describing how to set up specific public transportation failure markets and list relevant resolution sources | ◈100 | |
